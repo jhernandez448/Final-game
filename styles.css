@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+body{
+    font-family: 'Bangers', cursive;
+    color:#022CAC;
+         background-color:#F8B0A0;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+     display:none;
+}
+.pics1{
+   display:flex;
+    justify-content:space-around; 
+}
+.CartReg{
+   height:auto;
+    width:100%;
+}
+.ButtersReg{
+   height:auto;
+    width:100%;
+}
+button{
+    font-family: 'Yatra One', cursive;
+    
+}
+.buttons1{
+    display:flex;
+    justify-content:space-around;
+}
+h3{
+    display:none;
+}
+.q2{
+    display:none;
+}
+
+.loserbutters{
+    display:none;
+     width: 40%;
+    height:auto; 
+}
+.lbut{
+    text-align:center;
+}
+
+.q3{
+    display:none;
+}
+.q4{
+    display:none;
+}
+.pics2{
+   display:flex;
+    justify-content:space-around;
+}
+.buttons2{
+   display:flex;
+    justify-content:space-around;
+}
+.school{
+    display:none;
+    width: 40%;
+    height:auto; 
+}
+.fatman{
+    display:none;
+    width: 40%;
+    height:auto; 
+}
+.goschool{
+   display:none;
+}
+.fat{
+      display:none;
+}
+.chilialign{
+    text-align:center;
+}
+.chili{
+    display:none;
+   width: 40%;
+    height:auto; 
+}
+.q5{
+    display:none;
+}
+.bus{
+    display:none;
+    width: 40%;
+    height:auto; 
+}
+.busalign{
+    text-align:center;
+}
+.pics3{
+     display:flex;
+    justify-content:space-around;
+}
+.main{
+    display:none;
+     height:auto;
+    width:40%;
+}
+.craigs{
+    display:none;
+     height:auto;
+    width:40%;
+}
+.cg{
+    display:none;
+}
+.m4{
+    display:none;
+}
+.buttons3{
+     display:flex;
+    justify-content:space-around;
+}
+
+
+.q6{
+    display:none;
+}
+.q7{
+    display:none;
+}
+.craigfin{
+    display:none;
+    width: 40%;
+    height:auto; 
+}
+.calign{
+     text-align:center;
+}
+.q8{
+    display:none;
+}
+.finale{
+    display:none;
+     width: 40%;
+    height:auto; 
+}
+.malign{
+    text-align:center;
+}
